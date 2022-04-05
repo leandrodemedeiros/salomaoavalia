@@ -1,5 +1,5 @@
 ---
-title: Sobre nós
+title: JBF
 permalink: "/about.html"
 image: 
 comments: false
