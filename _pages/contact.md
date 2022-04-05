@@ -3,7 +3,7 @@ title: Fale comigo
 permalink: "/contact.html"
 ---
 
-<form action="https://formspree.io/{{site.email}}" method="POST">\
+<form action="https://formspree.io/{{site.email}}" method="POST">
 <p class="mb-4">Por favor, envie uma mensagem para {{site.name}}. Responderei assim que possível!</p>
 <div class="form-group row">
 <div class="col-md-6">
