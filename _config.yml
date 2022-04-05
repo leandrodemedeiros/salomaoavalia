@@ -23,7 +23,7 @@ name: Salomao Avalia
 description: Salomão Avalia é o site do avaliador de imóveis Eliel Salomão.
 logo: assets/images/logo.png
 favicon: assets/images/favicon.ico
-baseurl: ''
+baseurl: 
 include:
 - _pages
 plugins:
