@@ -2,7 +2,7 @@
 title: JBF
 permalink: "/about.html"
 image: 
-comments: false
+comments: true
 layout: page-sidebar
 ---
 
