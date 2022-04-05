@@ -18,42 +18,10 @@
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/jekyll/tutorial/2019/01/24/powerful-things-markdown-editor.html">Powerful things you can do with the Markdown editor</a>
+	<a class="text-dark" href="/jekyll/tutorial/2019/01/23/powerful-things-markdown-editor.html">Powerful things you can do with the Markdown editor</a>
 	</h2>
 	<p class="excerpt">
 	   There are lots of powerful things you can do with the Markdown editor
-	</p>
-	<small class="d-block text-muted">
-		In <span class="catlist">
-		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#jekyll">Jekyll</a><span class="sep">, </span>
-		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#tutorial">tutorial</a><span class="sep">, </span>
-		
-		</span>
-	</small>
-	<small class="text-muted">
-		Jan 24, 2019
-	</small>
-</div>
-
-	<div class="col-md-3 pr-0 text-right">
-	<a href="/jekyll/tutorial/2019/01/24/powerful-things-markdown-editor.html">
-	<img class="w-100" src="/assets/images/4.jpg" alt="Powerful things you can do with the Markdown editor" />
-	</a>
-	</div>
-
-</div>
-        
-        
-        
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
-<div class="pr-3">
-	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/jekyll/tutorial/2019/01/23/options-for-creating-new-site-with-jekyll.html">Options for creating a new site with Jekyll</a>
-	</h2>
-	<p class="excerpt">
-	   jekyll new &lt;PATH&gt; installs a new Jekyll site at the path specified (relative to current directory). In this case, Jekyll will be installed in a directory called myblog. Here are...
 	</p>
 	<small class="d-block text-muted">
 		In <span class="catlist">
@@ -70,7 +38,39 @@
 </div>
 
 	<div class="col-md-3 pr-0 text-right">
-	<a href="/jekyll/tutorial/2019/01/23/options-for-creating-new-site-with-jekyll.html">
+	<a href="/jekyll/tutorial/2019/01/23/powerful-things-markdown-editor.html">
+	<img class="w-100" src="/assets/images/4.jpg" alt="Powerful things you can do with the Markdown editor" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/jekyll/tutorial/2019/01/22/options-for-creating-new-site-with-jekyll.html">Options for creating a new site with Jekyll</a>
+	</h2>
+	<p class="excerpt">
+	   jekyll new &lt;PATH&gt; installs a new Jekyll site at the path specified (relative to current directory). In this case, Jekyll will be installed in a directory called myblog. Here are...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#jekyll">Jekyll</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#tutorial">tutorial</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jan 22, 2019
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/jekyll/tutorial/2019/01/22/options-for-creating-new-site-with-jekyll.html">
 	<img class="w-100" src="/assets/images/13.jpg" alt="Options for creating a new site with Jekyll" />
 	</a>
 	</div>
@@ -82,7 +82,7 @@
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/jekyll/2019/01/22/never-stopped-worrying-never-loved-bomb.html">Never stopped worrying or loving the bomb</a>
+	<a class="text-dark" href="/jekyll/2019/01/21/never-stopped-worrying-never-loved-bomb.html">Never stopped worrying or loving the bomb</a>
 	</h2>
 	<p class="excerpt">
 	   I’ve been through fire and water, I tell you! From my earliest pebblehood the wildest things you could imagine have been happening to this world of ours, and I have been right in the ...
@@ -95,12 +95,12 @@
 		</span>
 	</small>
 	<small class="text-muted">
-		Jan 22, 2019
+		Jan 21, 2019
 	</small>
 </div>
 
 	<div class="col-md-3 pr-0 text-right">
-	<a href="/jekyll/2019/01/22/never-stopped-worrying-never-loved-bomb.html">
+	<a href="/jekyll/2019/01/21/never-stopped-worrying-never-loved-bomb.html">
 	<img class="w-100" src="/assets/images/14.jpg" alt="Never stopped worrying or loving the bomb" />
 	</a>
 	</div>
@@ -112,42 +112,10 @@
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/jekyll/tutorial/2019/01/21/is-intelligence-enough.html">Is Intelligence Enough</a>
+	<a class="text-dark" href="/jekyll/tutorial/2019/01/20/is-intelligence-enough.html">Is Intelligence Enough</a>
 	</h2>
 	<p class="excerpt">
 	   Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one’s self is very difficult. We are prone to let our mental life become...
-	</p>
-	<small class="d-block text-muted">
-		In <span class="catlist">
-		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#jekyll">Jekyll</a><span class="sep">, </span>
-		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#tutorial">tutorial</a><span class="sep">, </span>
-		
-		</span>
-	</small>
-	<small class="text-muted">
-		Jan 21, 2019
-	</small>
-</div>
-
-	<div class="col-md-3 pr-0 text-right">
-	<a href="/jekyll/tutorial/2019/01/21/is-intelligence-enough.html">
-	<img class="w-100" src="https://images.unsplash.com/photo-1523740856324-f2ce89135981?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=798&amp;q=80" alt="Is Intelligence Enough" />
-	</a>
-	</div>
-
-</div>
-        
-        
-        
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
-<div class="pr-3">
-	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/jekyll/tutorial/2019/01/20/quick-start-guide.html">Quick Start Guide</a>
-	</h2>
-	<p class="excerpt">
-	   If you already have a full Ruby development environment with all headers and RubyGems installed (see Jekyll’s requirements), you can create a new Jekyll site by doing the following:
 	</p>
 	<small class="d-block text-muted">
 		In <span class="catlist">
@@ -164,8 +132,8 @@
 </div>
 
 	<div class="col-md-3 pr-0 text-right">
-	<a href="/jekyll/tutorial/2019/01/20/quick-start-guide.html">
-	<img class="w-100" src="/assets/images/12.jpg" alt="Quick Start Guide" />
+	<a href="/jekyll/tutorial/2019/01/20/is-intelligence-enough.html">
+	<img class="w-100" src="https://images.unsplash.com/photo-1523740856324-f2ce89135981?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=798&amp;q=80" alt="Is Intelligence Enough" />
 	</a>
 	</div>
 
@@ -176,10 +144,10 @@
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/jekyll/tutorial/2019/01/19/markup-example.html">Markdown Example</a>
+	<a class="text-dark" href="/jekyll/tutorial/2019/01/19/quick-start-guide.html">Quick Start Guide</a>
 	</h2>
 	<p class="excerpt">
-	   You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common wa...
+	   If you already have a full Ruby development environment with all headers and RubyGems installed (see Jekyll’s requirements), you can create a new Jekyll site by doing the following:
 	</p>
 	<small class="d-block text-muted">
 		In <span class="catlist">
@@ -196,7 +164,39 @@
 </div>
 
 	<div class="col-md-3 pr-0 text-right">
-	<a href="/jekyll/tutorial/2019/01/19/markup-example.html">
+	<a href="/jekyll/tutorial/2019/01/19/quick-start-guide.html">
+	<img class="w-100" src="/assets/images/12.jpg" alt="Quick Start Guide" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/jekyll/tutorial/2019/01/18/markup-example.html">Markdown Example</a>
+	</h2>
+	<p class="excerpt">
+	   You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common wa...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#jekyll">Jekyll</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#tutorial">tutorial</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jan 18, 2019
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/jekyll/tutorial/2019/01/18/markup-example.html">
 	<img class="w-100" src="/assets/images/6.jpg" alt="Markdown Example" />
 	</a>
 	</div>
@@ -208,7 +208,7 @@
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/jekyll/tutorial/2019/01/18/customer-service.html">What is Jekyll</a>
+	<a class="text-dark" href="/jekyll/tutorial/2019/01/17/customer-service.html">What is Jekyll</a>
 	</h2>
 	<p class="excerpt">
 	   No more databases, comment moderation, or pesky updates to install-just your content. Markdown, Liquid, HTML &amp; CSS go in. Static sites come out ready for deployment. Permalinks, c...
@@ -223,12 +223,12 @@
 		</span>
 	</small>
 	<small class="text-muted">
-		Jan 18, 2019
+		Jan 17, 2019
 	</small>
 </div>
 
 	<div class="col-md-3 pr-0 text-right">
-	<a href="/jekyll/tutorial/2019/01/18/customer-service.html">
+	<a href="/jekyll/tutorial/2019/01/17/customer-service.html">
 	<img class="w-100" src="/assets/images/11.jpg" alt="What is Jekyll" />
 	</a>
 	</div>
@@ -240,7 +240,7 @@
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/jekyll/tutorial/2019/01/18/charm-old-cities.html">Could we reinvent the charm of old cities</a>
+	<a class="text-dark" href="/jekyll/tutorial/2019/01/17/charm-old-cities.html">Could we reinvent the charm of old cities</a>
 	</h2>
 	<p class="excerpt">
 	   Bucharest’s history alternated periods of development and decline from the early settlements in antiquity until its consolidation as the national capital of Romania late in the 19th c...
@@ -255,12 +255,12 @@
 		</span>
 	</small>
 	<small class="text-muted">
-		Jan 18, 2019
+		Jan 17, 2019
 	</small>
 </div>
 
 	<div class="col-md-3 pr-0 text-right">
-	<a href="/jekyll/tutorial/2019/01/18/charm-old-cities.html">
+	<a href="/jekyll/tutorial/2019/01/17/charm-old-cities.html">
 	<img class="w-100" src="/assets/images/home.jpg" alt="Could we reinvent the charm of old cities" />
 	</a>
 	</div>
@@ -304,7 +304,7 @@
             <li class="mb-4">
             <span>
                 <h6 class="font-weight-bold">
-                    <a href="/tutorial/2019/02/02/first-mass-produced.html" class="text-dark">The first mass-produced book to deviate from a rectilinear format</a>
+                    <a href="/tutorial/2019/02/01/first-mass-produced.html" class="text-dark">The first mass-produced book to deviate from a rectilinear format</a>
                 </h6>
                 <span class="d-block text-muted">
                     In <span class="catlist">
@@ -319,7 +319,7 @@
             <li class="mb-4">
             <span>
                 <h6 class="font-weight-bold">
-                    <a href="/jekyll/tutorial/2019/01/28/we-all-wait-for-summer.html" class="text-dark">We all wait for summer</a>
+                    <a href="/jekyll/tutorial/2019/01/27/we-all-wait-for-summer.html" class="text-dark">We all wait for summer</a>
                 </h6>
                 <span class="d-block text-muted">
                     In <span class="catlist">
@@ -336,7 +336,7 @@
             <li class="mb-4">
             <span>
                 <h6 class="font-weight-bold">
-                    <a href="/jekyll/tutorial/2019/01/24/powerful-things-markdown-editor.html" class="text-dark">Powerful things you can do with the Markdown editor</a>
+                    <a href="/jekyll/tutorial/2019/01/23/powerful-things-markdown-editor.html" class="text-dark">Powerful things you can do with the Markdown editor</a>
                 </h6>
                 <span class="d-block text-muted">
                     In <span class="catlist">
@@ -353,7 +353,7 @@
             <li class="mb-4">
             <span>
                 <h6 class="font-weight-bold">
-                    <a href="/jekyll/2019/01/22/never-stopped-worrying-never-loved-bomb.html" class="text-dark">Never stopped worrying or loving the bomb</a>
+                    <a href="/jekyll/2019/01/21/never-stopped-worrying-never-loved-bomb.html" class="text-dark">Never stopped worrying or loving the bomb</a>
                 </h6>
                 <span class="d-block text-muted">
                     In <span class="catlist">
@@ -368,7 +368,7 @@
             <li class="mb-4">
             <span>
                 <h6 class="font-weight-bold">
-                    <a href="/jekyll/tutorial/2019/01/19/markup-example.html" class="text-dark">Markdown Example</a>
+                    <a href="/jekyll/tutorial/2019/01/18/markup-example.html" class="text-dark">Markdown Example</a>
                 </h6>
                 <span class="d-block text-muted">
                     In <span class="catlist">
