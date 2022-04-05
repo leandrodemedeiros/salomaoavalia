@@ -1,5 +1,5 @@
 ---
-title: Salomaoavalia
+title: Salomão Avalia
 timezone: UTC
 collections:
   posts:
@@ -37,16 +37,10 @@ authors:
     name: Eliel
     site: https://www.salomaoavalia.com.br
     avatar: "/assets/images/avatar1.jpg"
-    bio: Olá, meu nome é Eliel. Seja bem-vindo ao meu site, espero que eu possa ajudar a realizar o seu sonho!
+    bio: Olá, meu nome é Eliel. Seja bem-vindo ao meu site, espero que eu possa ajudar
+      a realizar o seu sonho!
     email: eliel@salomaoavalia.com.br
     twitter: https://twitter.com/salomaoavalia
-  # jane:
-  #   name: Jane
-  #   site: https://www.wowthemes.net
-  #   avatar: "/assets/images/avatar2.jpg"
-  #   bio: Blogger, fashionista, love to explore new ideas and write on my morning coffee!
-  #   email: fakemail@gmail.com
-  #   twitter: https://twitter.com/wowthemesnet
 markdown: kramdown
 highlighter: rouge
 paginate: 10
