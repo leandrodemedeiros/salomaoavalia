@@ -1,8 +1,4 @@
----
-layout: default
----
-
-<style type="text/css" media="screen">
+I"�<style type="text/css" media="screen">
   .container {
     margin: 10px auto;
     max-width: 600px;
@@ -22,3 +18,4 @@ layout: default
   <p><strong>Nada aqui:(</strong></p>
   <p>O conteúdo que você procura não pode ser encontrado. Volte para a <a href="{{site.baseurl}}/index.html">página principal.</a></p>
 </div>
+:ET
