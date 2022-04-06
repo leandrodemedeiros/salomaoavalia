@@ -8,7 +8,8 @@ layout: page-sidebar
 ---
 
 # JBF CONSULTORIA IMOBILIÁRIA 30 ANOS: GARANTIA DO MELHOR NEGÓCIO EM IMÓVEIS
-\\
+\
+\
 
 
 ## QUEM SOMOS
@@ -16,7 +17,8 @@ layout: page-sidebar
 JBF Consultoria Imobiliária é uma organização enxuta, ágil e especializada em negócios imobiliários, que atua no mercado há mais de 30 anos em avaliação e intermediação de compra e venda de imóveis, regularização, documentação, financiamento, assessoria e valorização patrimonial de investimentos imobiliários.
 
 Formada por profissionais com larga experiência, oriundos do mercado financeiro, marketing, segmento bancário, contábil e jurídico, nossa equipe é a certeza e a garantia dos melhores negócios em imóveis no Distrito Federal.
-\\
+\
+\
 
 ## O QUE A JBF CONSULTORIA OFERECE
 
@@ -38,7 +40,6 @@ Nosso escritório físico está localizado na charmosa Avenida Comercial do Seto
 Atuamos diretamente em todo o Distrito Federal e região, com ênfase nos bairros Sudoeste, Noroeste, Asa Sul e Norte, Lago Sul e Norte, Guará, Águas Claras, Octogonal e Cruzeiro.
 
 Mantemos relações de parceria com mais de 100 corretores e imobiliárias no DF e outros estados, o que agiliza e facilita a busca e oferta de imóveis, amplia nossas informações e pesquisa, e cria mais oportunidades para os nossos clientes.
-\\
 
 ### VEM SER JBF COM A GENTE!
 
