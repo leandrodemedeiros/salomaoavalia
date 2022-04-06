@@ -1,5 +1,6 @@
 ---
 title: A JBF
+date: 2022-04-04 21:48:00 Z
 permalink: "/about.html"
 image: 
 comments: false
