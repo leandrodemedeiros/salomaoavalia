@@ -19,7 +19,7 @@ defaults:
     path: _pages
   values:
     layout: page
-name: Salomao Avalia
+name: Salomão Avalia
 description: Salomão Avalia é o site do avaliador de imóveis Eliel Salomão.
 logo: assets/images/logo.png
 favicon: assets/images/favicon.ico
