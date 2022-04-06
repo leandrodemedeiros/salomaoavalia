@@ -33,7 +33,7 @@ plugins:
 - jekyll-seo-tag
 - jekyll-admin
 authors:
-  sal:
+  eliel:
     name: Eliel
     site: https://www.salomaoavalia.com.br
     avatar: "/assets/images/avatar1.jpg"
