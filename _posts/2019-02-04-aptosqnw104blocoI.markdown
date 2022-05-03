@@ -24,6 +24,7 @@ Apartamento **NOVO** prédio **NOVO** composto de **2 quartos sendo 1 suíte**, 
 
 **Valor do aluguel:** 
 R$4.700,00 (dispensamos fiadores trabalhamos com depósito caução) 
+
 **Condomínio:** 
 R$830,00
 
