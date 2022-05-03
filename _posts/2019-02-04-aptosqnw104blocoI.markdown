@@ -3,7 +3,7 @@ title: Apartamento SQNW 104 bloco I
 date: 2019-02-04 00:00:00 Z
 categories:
 - Jekyll
-image: "/uploads/WhatsApp%20Image%202022-04-14%20at%2015.37.20.jpeg"
+image: https://drive.google.com/file/d/11mZtKB7B4IkPxx0Sy-FqxYfZi-pPNWkh/view?usp=sharing
 layout: post
 ---
 
