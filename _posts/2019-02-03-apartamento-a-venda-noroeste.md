@@ -27,3 +27,23 @@ Pronto para morar com cobertura coletiva na **SQSW 104**
 
 **Tratar com**\
 Salomão – **(61)99644-9357 (Whatsapp)** ou **(61)99855-0972 (ligações)**
+
+![WhatsApp Image 2022-04-14 at 15.37.20 (2).jpeg](/uploads/WhatsApp%20Image%202022-04-14%20at%2015.37.20%20(2).jpeg)
+
+![WhatsApp Image 2022-04-14 at 15.37.19.jpeg](/uploads/WhatsApp%20Image%202022-04-14%20at%2015.37.19.jpeg)
+
+![WhatsApp Image 2022-04-14 at 15.37.19 (3).jpeg](/uploads/WhatsApp%20Image%202022-04-14%20at%2015.37.19%20(3).jpeg)
+
+![WhatsApp Image 2022-04-14 at 15.37.19 (2).jpeg](/uploads/WhatsApp%20Image%202022-04-14%20at%2015.37.19%20(2).jpeg)
+
+![WhatsApp Image 2022-04-14 at 15.37.19 (1).jpeg](/uploads/WhatsApp%20Image%202022-04-14%20at%2015.37.19%20(1).jpeg)
+
+![WhatsApp Image 2022-04-14 at 15.37.18.jpeg](/uploads/WhatsApp%20Image%202022-04-14%20at%2015.37.18.jpeg)
+
+![WhatsApp Image 2022-04-14 at 15.37.18 (2).jpeg](/uploads/WhatsApp%20Image%202022-04-14%20at%2015.37.18%20(2).jpeg)
+
+![WhatsApp Image 2022-04-14 at 15.37.18 (1).jpeg](/uploads/WhatsApp%20Image%202022-04-14%20at%2015.37.18%20(1).jpeg)
+
+![WhatsApp Image 2022-04-14 at 15.37.17 (1).jpeg](/uploads/WhatsApp%20Image%202022-04-14%20at%2015.37.17%20(1).jpeg)
+
+![WhatsApp Image 2022-04-14 at 15.37.17.jpeg](/uploads/WhatsApp%20Image%202022-04-14%20at%2015.37.17.jpeg)
