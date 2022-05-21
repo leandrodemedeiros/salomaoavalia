@@ -18,7 +18,7 @@ image: uploads/WhatsApp%20Image%202022-04-14%20at%2015.37.20.jpeg
 layout: post
 ---
 
-Ótimo apto com 3 qtos, 2 garagens, de canto, todo novo, armários, piso, decoração.
+Um ótimo apto com 3 qtos, 2 garagens, de canto, todo novo, armários, piso, decoração.
 Pronto para morar com cobertura coletiva na **SQSW 104**
 
 **Valor: **R$ 1.750.000,00
@@ -47,3 +47,5 @@ Salomão – **(61)99644-9357 (Whatsapp)** ou **(61)99855-0972 (ligações)**
 ![WhatsApp Image 2022-04-14 at 15.37.17 (1).jpeg](/uploads/WhatsApp%20Image%202022-04-14%20at%2015.37.17%20(1).jpeg)
 
 ![WhatsApp Image 2022-04-14 at 15.37.17.jpeg](/uploads/WhatsApp%20Image%202022-04-14%20at%2015.37.17.jpeg)
+
+![WhatsApp Image 2022-04-14 at 15.37.20 (1).jpeg](/uploads/WhatsApp%20Image%202022-04-14%20at%2015.37.20%20(1).jpeg)
