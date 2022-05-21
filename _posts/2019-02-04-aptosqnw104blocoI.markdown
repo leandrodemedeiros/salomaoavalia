@@ -16,7 +16,7 @@ tags:
 - academia
 - armarios
 - brinquedoteca
-image: uploads/WhatsApp%20Image%202022-04-14%20at%2015.37.20.jpeg
+image: "/uploads/WhatsApp%20Image%202022-04-14%20at%2015.14.46%20(2).jpeg"
 layout: post
 ---
 
@@ -30,5 +30,11 @@ R$830,00
 
 **Tratar com**  
 Salomão – **(61)99644-9357(Whatsapp)** ou **(61)99855-0972(ligações)**
- 
 
+
+![WhatsApp Image 2022-04-14 at 15.14.45 (1).jpeg](/uploads/WhatsApp%20Image%202022-04-14%20at%2015.14.45%20(1).jpeg)
+
+![WhatsApp Image 2022-04-14 at 15.14.45 (2).jpeg](/uploads/WhatsApp%20Image%202022-04-14%20at%2015.14.45%20(2).jpeg)
+
+![WhatsApp Image 2022-04-14 at 15.14.47 (1).jpeg](/uploads/WhatsApp%20Image%202022-04-14%20at%2015.14.47%20(1).jpeg)
+ 
