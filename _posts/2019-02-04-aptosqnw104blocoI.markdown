@@ -20,7 +20,7 @@ image: uploads/WhatsApp%20Image%202022-04-14%20at%2015.14.46%20(2).jpeg
 layout: post
 ---
 
-Apartamento **NOVO**, prédio **NOVO** composto de **2 quartos sendo 1 suíte**, ambos com armários e wc social com armário medindo 86m² de área útil sala grande cozinha planejada e área de serviço, **PRIMEIRA LOCAÇÃO**,  duas vagas de garagem, salão de festas e brinquedoteca no térreo além da cobertura coletiva com piscina, churrasqueira e espaço gourmet, academia, etc…
+Apartamento **NOVO**, prédio **NOVO** composto de **2 quartos sendo 1 suíte**, ambos com armários e wc social com armário, medindo 86m² de área útil, sala grande, cozinha planejada e área de serviço. **PRIMEIRA LOCAÇÃO**,  duas vagas de garagem, salão de festas e brinquedoteca no térreo, além da cobertura coletiva com piscina, churrasqueira, espaço gourmet, academia, etc.
 
 **Valor do aluguel:** 
 R$4.700,00 (dispensamos fiadores trabalhamos com depósito caução) 
