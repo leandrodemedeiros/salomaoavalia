@@ -38,3 +38,4 @@ Salomão – **(61)99644-9357(Whatsapp)** ou **(61)99855-0972(ligações)**
 
 ![WhatsApp Image 2022-04-14 at 15.14.47 (1).jpeg](/uploads/WhatsApp%20Image%202022-04-14%20at%2015.14.47%20(1).jpeg)
  
+![WhatsApp Image 2022-04-14 at 15.14.46 (2).jpeg](/uploads/WhatsApp%20Image%202022-04-14%20at%2015.14.46%20(2).jpeg)
