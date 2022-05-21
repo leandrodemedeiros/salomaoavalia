@@ -14,7 +14,7 @@ tags:
 - decoracao
 - cobertura
 author: jane
-image: https://drive.google.com/file/d/11mZtKB7B4IkPxx0Sy-FqxYfZi-pPNWkh
+image: uploads/WhatsApp%20Image%202022-04-14%20at%2015.14.46%20(2).jpeg
 layout: post
 ---
 
