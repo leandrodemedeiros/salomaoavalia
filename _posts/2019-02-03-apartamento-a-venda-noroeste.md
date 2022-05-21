@@ -26,4 +26,4 @@ Pronto para morar com cobertura coletiva na **SQSW 104**
 **Área útil:** 120 m²
 
 **Tratar com**\
-Salomão – (61) 99644-9357 - Creci 7086
+Salomão – **(61)99644-9357 (Whatsapp)** ou **(61)99855-0972 (ligações)**
